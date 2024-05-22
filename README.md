@@ -18,3 +18,13 @@ To run this project, you will need Python installed on your system. Follow these
 1. Clone the repository:
    ```bash
    git clone https://github.com/hemantdayal7/london-underground-pathfinder.git
+
+
+
+### Additional Notes:
+- **GitHub Repository Details**: Replace `https://github.com/yourusername/london-underground-pathfinder.git` with your actual GitHub repository URL.
+- **Contributing Guidelines**: If you decide to include detailed contributing guidelines, create a separate `CONTRIBUTING.md` file in your repository.
+- **License**: The example assumes an MIT License. Make sure to create a `LICENSE.md` file in your repository containing the license text. If you choose a different license, update the README accordingly.
+- **Acknowledgments**: Customize this section to give credit to any resources or individuals who helped in the development of the project.
+
+This README file will help users understand what your project does, how to set it up, and how to contribute, creating a welcoming and informative front page for your GitHub repository.
